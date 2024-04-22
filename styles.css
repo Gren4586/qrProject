@@ -14,7 +14,7 @@ body {
     grid-template-rows: auto auto auto;
     width: 315px;
     height: 525px;
-    margin: 0 auto;
+    margin: 10rem auto;
     background-color: hsl(0, 0%, 100%);
     padding: 10px;
     padding-bottom: 16px;
